@@ -1,6 +1,6 @@
 #Adobe
 .adobesc.com
-.licenses.adobe.com
+licenses.adobe.com
 .adobelogin.com
 .ftcdn.net
 .behance.net
