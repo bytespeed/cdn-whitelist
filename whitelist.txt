@@ -112,3 +112,6 @@ d1rvg4h59z7jah.cloudfront.net
 .appspot.com
 .gstatic.com
 .googleapis.com
+
+#Test
+.duckduckgo.com
