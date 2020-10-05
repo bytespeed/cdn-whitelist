@@ -113,5 +113,8 @@ d1rvg4h59z7jah.cloudfront.net
 .gstatic.com
 .googleapis.com
 
+#Amazon Appstream
+169.254.169.254
+
 #Test
 .duckduckgo.com
