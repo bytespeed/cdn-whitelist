@@ -82,7 +82,6 @@ awcm177.awmdm.com
 
 #Autodesk
 .autodesk.com
-urs.microsoft.com
 munchkin.marketo.net
 918-fod-433.mktoresp.com
 tags.tiqcdn.com
@@ -95,7 +94,7 @@ cm.eversttech.net
 .pki.goog
 .ss2.us
 .digicert.com
-crl.microsoft.com
+
 stats.g.doubleclick.net
 gateway.bluesnap.com
 nexus.ensighten.com
