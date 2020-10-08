@@ -78,6 +78,7 @@ awcm177.awmdm.com
 .oktacdn.com
 .oktapreview.com
 .adobess.com
+.recaptcha.net
 
 
 #Autodesk
@@ -117,7 +118,6 @@ d1rvg4h59z7jah.cloudfront.net
 .msftconnecttest.com
 
 #Test
-.duckduckgo.com
 
 #Microsoft
 .microsoft.com
