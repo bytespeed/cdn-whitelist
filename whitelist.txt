@@ -95,13 +95,21 @@ cm.eversttech.net
 .pki.goog
 .ss2.us
 .digicert.com
-
 stats.g.doubleclick.net
 gateway.bluesnap.com
 nexus.ensighten.com
 d1rvg4h59z7jah.cloudfront.net
 .akamaiedge.net
 
+#Fusion 360
+unpkg.com
+.autodesk360.com
+.circuits.io
+.amazontrust.com
+.launchdarkly.com
+.web-platform.io
+.agkn.com
+.rlcdn.com
 
 #Google
 .1e100.net
