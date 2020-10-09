@@ -102,7 +102,7 @@ d1rvg4h59z7jah.cloudfront.net
 .akamaiedge.net
 
 #Fusion 360
-unpkg.com
+.unpkg.com
 .autodesk360.com
 .circuits.io
 .amazontrust.com
