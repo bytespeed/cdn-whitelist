@@ -78,6 +78,7 @@ awcm177.awmdm.com
 .oktacdn.com
 .oktapreview.com
 .adobess.com
+.recaptcha.net
 
 
 #Autodesk
@@ -94,13 +95,22 @@ cm.eversttech.net
 .pki.goog
 .ss2.us
 .digicert.com
-
 stats.g.doubleclick.net
 gateway.bluesnap.com
 nexus.ensighten.com
 d1rvg4h59z7jah.cloudfront.net
 .akamaiedge.net
 
+#Fusion 360
+.unpkg.com
+.autodesk360.com
+.circuits.io
+.amazontrust.com
+.launchdarkly.com
+.web-platform.io
+.agkn.com
+.rlcdn.com
+.usertrust.com
 
 #Google
 .1e100.net
@@ -117,9 +127,9 @@ d1rvg4h59z7jah.cloudfront.net
 .msftconnecttest.com
 
 #Test
-.duckduckgo.com
 
 #Microsoft
 .microsoft.com
 .office.com
 .live.com
+.office.net
