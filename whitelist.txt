@@ -142,3 +142,6 @@ d1rvg4h59z7jah.cloudfront.net
 
 #ByteSpeed
 .bytespeed.com
+
+#Menasha School District
+.mjsd.k12.wi.us
