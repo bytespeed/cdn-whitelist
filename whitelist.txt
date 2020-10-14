@@ -134,3 +134,4 @@ d1rvg4h59z7jah.cloudfront.net
 .office.com
 .live.com
 .office.net
+.microsoftonline.com
