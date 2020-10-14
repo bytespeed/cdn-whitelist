@@ -135,3 +135,6 @@ d1rvg4h59z7jah.cloudfront.net
 .live.com
 .office.net
 .microsoftonline.com
+.msftauth.net
+.msauth.net
+.edgesuite.net
