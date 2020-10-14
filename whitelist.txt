@@ -138,3 +138,7 @@ d1rvg4h59z7jah.cloudfront.net
 .msftauth.net
 .msauth.net
 .edgesuite.net
+.msftauthimages.net
+
+#ByteSpeed
+.bytespeed.com
