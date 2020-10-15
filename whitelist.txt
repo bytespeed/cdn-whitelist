@@ -141,6 +141,7 @@ d1rvg4h59z7jah.cloudfront.net
 .msftauthimages.net
 .msfauthimages.net
 .microsoftonline-p.com
+.microsoftonline-p.net
 
 #ByteSpeed
 .bytespeed.com
