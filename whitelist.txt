@@ -126,6 +126,9 @@ d1rvg4h59z7jah.cloudfront.net
 169.254.169.254
 .msftconnecttest.com
 
+#PLTW
+.robotc.net
+
 #Test
 #Test
 
