@@ -160,5 +160,8 @@ d1rvg4h59z7jah.cloudfront.net
 .microsoftonline-p.com
 .microsoftonline-p.net
 
+#Unity
+.unity.com
+.unity3d.com
 
 #Test
