@@ -31,7 +31,7 @@ adbemdigitalmediarebootprod2.112.2o7.net
 .adobesigncdn.com
 .echosign.com
 .echocdn.com
-.bam.nr-data.net
+.nr-data.net
 .cookielaw.org
 .newrelic.com
 .onetrust.com 
@@ -132,6 +132,7 @@ d1rvg4h59z7jah.cloudfront.net
 .appspot.com
 .gstatic.com
 .googleapis.com
+accounts.youtube.com
 
 
 #GreenFoot
@@ -165,4 +166,4 @@ d1rvg4h59z7jah.cloudfront.net
 .unity3d.com
 
 #Test
-#Cron2
+#Cron3
