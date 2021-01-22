@@ -57,7 +57,6 @@ acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data
 adbemdigitalmediarebootprod2.112.2o7.net
 .behance.net
 .amazonaws.com
-bat.bing.com
 c.betrad.com
 c.evidon.com
 googleads.g.doubleclick.net
