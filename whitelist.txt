@@ -106,6 +106,7 @@ d1rvg4h59z7jah.cloudfront.net
 .akamaiedge.net
 
 #Bing
+.bing.net
 .bing.com
 .virtualearth.net
 
