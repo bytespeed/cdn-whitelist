@@ -84,6 +84,8 @@ awcm177.awmdm.com
 169.254.169.254
 .msftconnecttest.com
 
+#Arduino
+.arduino.cc
 
 #Autodesk
 .autodesk.com
