@@ -166,6 +166,8 @@ accounts.youtube.com
 .msfauthimages.net
 .microsoftonline-p.com
 .microsoftonline-p.net
+.msn.com
+.outlook.com
 
 #Unity
 .unity.com
