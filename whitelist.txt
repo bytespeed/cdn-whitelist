@@ -1,4 +1,5 @@
 #Adobe
+.adobesensei.io
 .adobesc.com
 .adobe.com
 .adobelogin.com
