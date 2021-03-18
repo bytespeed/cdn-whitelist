@@ -170,5 +170,8 @@ accounts.youtube.com
 .unity.com
 .unity3d.com
 
+#Waseca
+.classlink.com
+
 #Test
 #Cron4
