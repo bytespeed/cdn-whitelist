@@ -173,6 +173,9 @@ accounts.youtube.com
 .unity.com
 .unity3d.com
 
+#ISD 728
+.isd728.org
+
 #Waseca
 .classlink.com
 
