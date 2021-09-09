@@ -51,7 +51,6 @@ adbemdigitalmediarebootprod2.112.2o7.net
 .symcb.com
 .symcd.com
 .omniture.com
-ccext-cdn.adobecces.com/
 .adobesc.com
 acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data
 .adobesc.com
@@ -192,4 +191,6 @@ u.flowbotics.com
 .lencr.org
 .identrust.com
 .cloudfront.net
+.adobecces.com
+.dotomi.com
 
