@@ -105,7 +105,6 @@ cm.eversttech.net
 stats.g.doubleclick.net
 gateway.bluesnap.com
 nexus.ensighten.com
-d1rvg4h59z7jah.cloudfront.net
 .akamaiedge.net
 
 #Bing
@@ -183,4 +182,14 @@ u.flowbotics.com
 #Test
 .everesttech.net
 
-#Cron4
+#Delhi Test
+.globalsign.net
+.securetrust.com
+.comodo.net
+.comodoca.com
+.quovadisoffshore.com
+.a-msedge.net
+.lencr.org
+.identrust.com
+.cloudfront.net
+
