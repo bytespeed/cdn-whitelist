@@ -78,7 +78,18 @@ awcm177.awmdm.com
 .oktapreview.com
 .adobess.com
 .recaptcha.net
-
+.everesttech.net
+.globalsign.net
+.securetrust.com
+.comodo.net
+.comodoca.com
+.quovadisoffshore.com
+.a-msedge.net
+.lencr.org
+.identrust.com
+.cloudfront.net
+.adobecces.com
+.dotomi.com
 
 #Amazon Appstream
 169.254.169.254
@@ -168,6 +179,10 @@ u.flowbotics.com
 .outlook.com
 .sharepoint.com
 
+#Solidworks
+.solidworks.com
+.3ds.com
+
 #Unity
 .unity.com
 .unity3d.com
@@ -179,18 +194,5 @@ u.flowbotics.com
 .classlink.com
 
 #Test
-.everesttech.net
 
-#Delhi Test
-.globalsign.net
-.securetrust.com
-.comodo.net
-.comodoca.com
-.quovadisoffshore.com
-.a-msedge.net
-.lencr.org
-.identrust.com
-.cloudfront.net
-.adobecces.com
-.dotomi.com
 
