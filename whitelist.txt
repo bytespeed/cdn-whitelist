@@ -193,6 +193,16 @@ u.flowbotics.com
 #Waseca
 .classlink.com
 
+#united test
+.evgnet.com
+.6sc.co
+.rapidssl.com
+.crwdcntrl.net
+.ml314.com
+.33across.com
+.llnwd.net
+.sectigo.com
+
 #Test
 .google.internal
 .amazon.com
