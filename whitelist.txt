@@ -194,5 +194,5 @@ u.flowbotics.com
 .classlink.com
 
 #Test
-
-
+.google.internal
+.amazon.com
