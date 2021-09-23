@@ -202,6 +202,7 @@ u.flowbotics.com
 .33across.com
 .llnwd.net
 .sectigo.com
+.sentry.io
 
 #Test
 .google.internal
