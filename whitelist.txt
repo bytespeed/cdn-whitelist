@@ -90,6 +90,7 @@ awcm177.awmdm.com
 .cloudfront.net
 .adobecces.com
 .dotomi.com
+.adbephotos.com
 
 #Amazon Appstream
 169.254.169.254
