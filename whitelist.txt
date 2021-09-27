@@ -59,7 +59,6 @@ adbemdigitalmediarebootprod2.112.2o7.net
 .amazonaws.com
 c.betrad.com
 c.evidon.com
-googleads.g.doubleclick.net
 snap.licdn.com
 .everestjs.net
 .googleadservices.com
@@ -69,7 +68,6 @@ cdn.inpwrd.net
 ct.pinterest.com
 d9.flashtalking.com
 pixel.quantserve.com
-9212252.fls.doubleclick.net
 awcm177.awmdm.com
 .adobejanus.com
 .adobesunbreak.com
@@ -113,7 +111,6 @@ cm.eversttech.net
 .pki.goog
 .ss2.us
 .digicert.com
-stats.g.doubleclick.net
 gateway.bluesnap.com
 nexus.ensighten.com
 .akamaiedge.net
