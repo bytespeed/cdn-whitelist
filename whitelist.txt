@@ -10,7 +10,7 @@
 .demandbase.com
 .adobeoobe.com
 .macromedia.com
-adbemdigitalmediarebootprod2.112.2o7.net
+.2o7.net
 .edgefonts.net
 .adobejanus.com
 .adobeccstatic.com
@@ -47,28 +47,26 @@ adbemdigitalmediarebootprod2.112.2o7.net
 .verisign.com
 .globalsign.com
 .godaddy.com
-.ctldl.windowsupdate.com
+.windowsupdate.com
 .symcb.com
 .symcd.com
 .omniture.com
 .adobesc.com
-acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data
+.windows.net
 .adobesc.com
-adbemdigitalmediarebootprod2.112.2o7.net
 .behance.net
 .amazonaws.com
-c.betrad.com
-c.evidon.com
-snap.licdn.com
+.betrad.com
+.evidon.com
+.licdn.com
 .everestjs.net
 .googleadservices.com
-.googletagmanager.com
-match.prod.bidr.io
-cdn.inpwrd.net
+.bidr.io
+.inpwrd.net
 ct.pinterest.com
-d9.flashtalking.com
-pixel.quantserve.com
-awcm177.awmdm.com
+.flashtalking.com
+.quantserve.com
+.awmdm.com
 .adobejanus.com
 .adobesunbreak.com
 .okta.com
@@ -99,21 +97,22 @@ awcm177.awmdm.com
 
 #Autodesk
 .autodesk.com
-munchkin.marketo.net
-918-fod-433.mktoresp.com
-tags.tiqcdn.com
+.marketo.net
+.mktoresp.com
+.tiqcdn.com
 .googletagmanager.com
 .google-analytics.com
-cm.eversttech.net
+.eversttech.net
 .symcb.com
 .symcd.com
 .geotrust.com
 .pki.goog
 .ss2.us
 .digicert.com
-gateway.bluesnap.com
-nexus.ensighten.com
+.bluesnap.com
+.ensighten.com
 .akamaiedge.net
+.autodesk.net
 
 #Bing
 .bing.net
@@ -154,7 +153,7 @@ accounts.youtube.com
 
 #PLTW
 .robotc.net
-u.flowbotics.com
+.flowbotics.com
 
 #Menasha School District
 .mjsd.k12.wi.us
