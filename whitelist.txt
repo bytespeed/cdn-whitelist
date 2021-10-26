@@ -176,6 +176,9 @@ accounts.youtube.com
 .outlook.com
 .sharepoint.com
 
+#Securly
+.securly.com
+
 #Solidworks
 .solidworks.com
 .3ds.com
