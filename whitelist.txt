@@ -176,6 +176,9 @@ accounts.youtube.com
 .outlook.com
 .sharepoint.com
 
+#Moorhead
+.justinmind.com
+
 #Securly
 .securly.com
 
