@@ -87,6 +87,10 @@ ct.pinterest.com
 .adobecces.com
 .dotomi.com
 .adbephotos.com
+.app.link
+.adobeprojectm.com
+.adobespark.com
+
 
 #Amazon Appstream
 169.254.169.254
