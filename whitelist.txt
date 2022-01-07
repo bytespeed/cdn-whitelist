@@ -90,7 +90,7 @@ ct.pinterest.com
 .app.link
 .adobeprojectm.com
 .adobespark.com
-
+.zendesk.com
 
 #Amazon Appstream
 169.254.169.254
