@@ -126,6 +126,8 @@ ct.pinterest.com
 #ByteSpeed
 .bytespeed.com
 
+#CNCmotion
+.intelitek.com
 
 #Fusion 360
 .unpkg.com
