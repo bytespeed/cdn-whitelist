@@ -185,6 +185,9 @@ accounts.youtube.com
 .msedge.net
 .aka.ms
 .msauthimages.net
+.visualstudio.com
+.azure.com
+.trafficmanager.net
 
 #Moorhead
 .justinmind.com
