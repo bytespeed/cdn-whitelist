@@ -181,6 +181,10 @@ accounts.youtube.com
 .msn.com
 .outlook.com
 .sharepoint.com
+.msecnd.net
+.msedge.net
+.aka.ms
+.msauthimages.net
 
 #Moorhead
 .justinmind.com
