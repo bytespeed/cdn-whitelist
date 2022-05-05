@@ -187,6 +187,8 @@
 @@||visualstudio.com^
 @@||azure.com^
 @@||trafficmanager.net^
+@@||svc.ms^
+@@||office365.com^
 
 #Moorhead
 @@||justinmind.com^

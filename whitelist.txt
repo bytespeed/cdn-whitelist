@@ -188,6 +188,8 @@ accounts.youtube.com
 .visualstudio.com
 .azure.com
 .trafficmanager.net
+.svc.ms
+.office365.com
 
 #Moorhead
 .justinmind.com
@@ -230,3 +232,6 @@ accounts.youtube.com
 .google.internal
 .amazon.com
 .salinasuhsd.org
+.marshallk12.net
+.pleasval.org
+.stjoesmhdschool.com
