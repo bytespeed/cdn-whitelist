@@ -191,6 +191,9 @@ accounts.youtube.com
 .svc.ms
 .office365.com
 .vsassets.io
+.azureedge.net
+.exp-tas.com
+.adoptium.net
 
 #Moorhead
 .justinmind.com
