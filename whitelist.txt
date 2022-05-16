@@ -190,6 +190,7 @@ accounts.youtube.com
 .trafficmanager.net
 .svc.ms
 .office365.com
+.vsassets.io
 
 #Moorhead
 .justinmind.com
